@@ -1,0 +1,15 @@
+@charset "UTF-8";
+@font-face {
+    font-family: "FonteLogo";
+    src: url();
+}
+body{
+              background-color:#B2DFEE;
+                nav#menu ul {
+                    list-style: none;
+                }
+            }
+
+
+
+
